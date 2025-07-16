@@ -34,11 +34,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harishna-kathirvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishna-kathirvel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harishna-kathirvel-434997260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishna-kathirvel" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harishnak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harishnak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harishna_gkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harishna_gkc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harishna" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/harishna.sightspectrum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="harishna.sightspectrum" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@harishna.sightspectrum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="harishna.sightspectrum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
