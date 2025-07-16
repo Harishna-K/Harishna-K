@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harishna K</h1>
-<h2 align="center">A passionate Fullstack developer from India</h2>
+<h2 align="center">A passionate Fullstack Developer from India</h2>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
