@@ -6,16 +6,23 @@
 🔭 I’m currently seeking a job — ****open to full-time roles as a React.js Developer or Full Stack / Frontend Developer.****
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
-🌱 I’m currently learning  
-- 🎨 Tailwind CSS for rapid UI development  
+## 🌱 I’m currently learning  
+
+- 🎨 Tailwind CSS for rapid UI development
+<img 
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpnaWhza3MwNmRtcmQ5OXFoOTN2NjJxb3ZwZ3p3dDUwMTdtOGpiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" 
+  alt="Coding gif" 
+  align="right" 
+  style="margin-top: -20px; height: 200px;"
+/>
+
 - 🍃 MongoDB advanced data modeling and performance tuning  
 - 🧩 Advanced Node.js concepts including streams, clusters, and workers  
 - 🔐 Scalable authentication and backend architecture
 
-💬 Ask me about  
+## 💬 Ask me about  
+
   Frontend technologies – HTML, CSS, JavaScript, React, and responsive design
 
 - 👯 I’m looking to collaborate on
@@ -31,7 +38,7 @@
   **📧 harishna.gkc@gmail.com**
 
 - 📄 Know about my experiences
-  [https://drive.google.com/file/d/1i6xpzDfwv95dj-xY_Wqku3xG4UnspM1P/view?usp=sharing](https://drive.google.com/file/d/1i6xpzDfwv95dj-xY_Wqku3xG4UnspM1P/view?usp=sharing)
+  https://drive.google.com/file/d/1iN1kHVn0F5OrRfLponHCQqmcDZ2GPiyj/view?usp=sharing
 
 - ⚡ Fun fact
   **I can explain closures in JavaScript better than I explain my weekend plans 😄**
