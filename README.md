@@ -14,7 +14,7 @@
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpnaWhza3MwNmRtcmQ5OXFoOTN2NjJxb3ZwZ3p3dDUwMTdtOGpiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" 
   alt="Coding gif" 
   align="right" 
-  style="margin-top: -20px; height: 200px;"
+  style="height: 180px;"
 />
 
 - 🍃 MongoDB advanced data modeling and performance tuning  
